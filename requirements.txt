@@ -24,7 +24,7 @@ pygraphviz==1.5
 pyparsing==2.2.1
 python-dateutil==2.7.3
 PyWavelets==1.0.1
-PyYAML==3.13
+PyYAML==5.4
 scikit-image==0.14.0
 scipy==1.1.0
 six==1.11.0
