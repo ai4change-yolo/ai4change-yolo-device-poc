@@ -79,3 +79,43 @@ Movidius SDK: https://developer.movidius.com/start
 Real-time object detection on the Raspberry Pi with the Movidius NCS: https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/
 
 Deploying Your Customized Caffe Models on Intel® Movidius™ Neural Compute Stick: https://movidius.github.io/blog/deploying-custom-caffe-models/
+
+Requirements
+________________
+
+
+absl-py==0.5.0
+astor==0.7.1
+AWSIoTPythonSDK==1.4.0
+cloudpickle==0.5.6
+cycler==0.10.0
+Cython==0.28.5
+-e git+https://github.com/thtrieu/darkflow.git@b2aee0000cd2a956b9f1de6dbfef94d53158b7d8#egg=darkflow
+dask==0.19.2
+decorator==4.3.0
+gast==0.2.0
+graphviz==0.9
+grpcio==1.15.0
+kiwisolver==1.0.1
+Markdown==3.0.1
+matplotlib==3.0.0
+networkx==2.2
+numpy==1.15.2
+opencv-contrib-python==3.4.3.18
+opencv-python==3.4.3.18
+picamera==1.13
+Pillow
+protobuf==3.6.1
+pygraphviz==1.5
+pyparsing==2.2.1
+python-dateutil==2.7.3
+PyWavelets==1.0.1
+PyYAML==3.13
+scikit-image==0.14.0
+scipy==1.1.0
+six==1.11.0
+tensorboard==1.9.0
+tensorflow>=1.9.0
+termcolor==1.1.0
+toolz==0.9.0
+Werkzeug
